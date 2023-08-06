@@ -1,0 +1,4 @@
+[ERROR] {project:Taeho's_standard_API, handler:NewHandler(), function:github/Taeho0927/Standard_API/services.NewHandler, message:dial tcp 127.0.0.1:5432: connect: connection refused, line:19, time:2023-08-06 18:46:59}
+[ERROR] {project:Taeho's_standard_API, handler:main_RunAPI()_Error, function:main.main, message:dial tcp 127.0.0.1:5432: connect: connection refused, line:26, time:2023-08-06 18:46:59}
+[DEBUG] {project:Taeho's_standard_API, handler:PGConn, function:github/Taeho0927/Standard_API/core/pgLayer.PGConn, message:PostgreSQL Connection Made, line:21, time:2023-08-06 18:47:52}
+[DEBUG] {project:Taeho's_standard_API, handler:PGConn, function:github/Taeho0927/Standard_API/core/pgLayer.PGConn, message:PostgreSQL Connection Made, line:21, time:2023-08-06 18:59:52}
